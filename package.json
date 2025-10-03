@@ -1,0 +1,24 @@
+{
+  "name": "nutlab-website",
+  "version": "1.0.0",
+  "description": "NUTLAB - Kalitenin Adresi | Premium Kuruyemiş ve Çerez",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server . -p 3000",
+    "build": "echo 'Static site - no build required'",
+    "start": "npx http-server . -p 8080"
+  },
+  "keywords": [
+    "kuruyemiş",
+    "çerez",
+    "nutlab",
+    "kaju",
+    "antep fıstığı",
+    "fındık"
+  ],
+  "author": "NUTLAB",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
